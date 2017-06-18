@@ -31,7 +31,7 @@ public class SimpleTest {
         wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
 
-
+@Test
     @Test
     public void simpleTest() {
         login("admin", "admin");
