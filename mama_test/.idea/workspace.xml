@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdminkaHelper.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AdminkaHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/appmanager/AdminkaHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            <state relative-caret-position="459">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#285#286#0" expanded="true" />
@@ -57,7 +57,7 @@
       <file leaf-file-name="ApplicationManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/appmanager/ApplicationManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="137">
               <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -66,15 +66,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdminTests.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AdminTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/AdminTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="36" column="46" lean-forward="true" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+            <state relative-caret-position="170">
+              <caret line="50" column="10" lean-forward="true" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1251#1252#0" expanded="true" />
-                <element signature="e#1277#1278#0" expanded="true" />
+                <element signature="e#1366#1367#0" expanded="true" />
+                <element signature="e#1392#1393#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,9 +113,9 @@
         <option value="$PROJECT_DIR$/src/test/java/tests/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/appmanager/LoginHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/appmanager/ApplicationManager.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/AdminTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/appmanager/AdminkaHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/appmanager/HelperBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/appmanager/AdminkaHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/AdminTests.java" />
       </list>
     </option>
   </component>
@@ -510,39 +510,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AdminTests - 2017.06.18 at 10h 25m 38s.xml">
+    <history-entry file="AdminTests - 2017.06.18 at 12h 37m 39s.xml">
       <configuration name="AdminTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdminTests - 2017.06.18 at 10h 28m 22s.xml">
+    <history-entry file="AdminTests - 2017.06.18 at 12h 39m 38s.xml">
       <configuration name="AdminTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdminTests - 2017.06.18 at 10h 31m 30s.xml">
+    <history-entry file="AdminTests - 2017.06.18 at 12h 58m 45s.xml">
       <configuration name="AdminTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdminTests - 2017.06.18 at 10h 33m 08s.xml">
+    <history-entry file="AdminTests - 2017.06.18 at 13h 08m 24s.xml">
       <configuration name="AdminTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdminTests - 2017.06.18 at 10h 37m 48s.xml">
+    <history-entry file="AdminTests - 2017.06.18 at 13h 12m 21s.xml">
       <configuration name="AdminTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdminTests - 2017.06.18 at 10h 41m 46s.xml">
+    <history-entry file="AdminTests - 2017.06.18 at 13h 14m 21s.xml">
       <configuration name="AdminTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdminTests - 2017.06.18 at 11h 22m 49s.xml">
+    <history-entry file="AdminTests - 2017.06.18 at 13h 15m 33s.xml">
       <configuration name="AdminTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdminTests - 2017.06.18 at 11h 23m 55s.xml">
+    <history-entry file="AdminTests - 2017.06.18 at 13h 17m 21s.xml">
       <configuration name="AdminTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdminTests - 2017.06.18 at 11h 32m 49s.xml">
+    <history-entry file="AdminTests - 2017.06.18 at 13h 21m 57s.xml">
       <configuration name="AdminTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdminTests - 2017.06.18 at 11h 36m 56s.xml">
+    <history-entry file="AdminTests - 2017.06.18 at 13h 33m 16s.xml">
       <configuration name="AdminTests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -613,12 +613,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/tests/AdminTests.java</url>
-          <line>33</line>
+          <line>34</line>
           <properties />
-          <option name="timeStamp" value="10" />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -642,7 +642,7 @@
         <state relative-caret-position="170">
           <caret line="10" column="86" lean-forward="false" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -661,28 +661,6 @@
           <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/appmanager/ApplicationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/AdminTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="36" column="46" lean-forward="true" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1251#1252#0" expanded="true" />
-            <element signature="e#1277#1278#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -709,8 +687,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/appmanager/AdminkaHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#285#286#0" expanded="true" />
@@ -719,6 +697,28 @@
             <element signature="e#404#405#0" expanded="true" />
             <element signature="e#440#441#0" expanded="true" />
             <element signature="e#498#499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/appmanager/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/AdminTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="50" column="10" lean-forward="true" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1366#1367#0" expanded="true" />
+            <element signature="e#1392#1393#0" expanded="true" />
           </folding>
         </state>
       </provider>

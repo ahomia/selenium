@@ -20,8 +20,8 @@ public class AdminkaHelper extends HelperBase {
 public List<WebElement> menuList(){
         return listOfElements(By.cssSelector("#app-"));
 }
-    public List<WebElement> subMenuList(WebElement element){
-        return listOfElements(By.xpath("/li[contains(@id,'doc%s')"),element);
+    public List<WebElement> subMenuList(){
+        return listOfElements(By.xpath("//li[@id='app-'and @class='selected']/ul/li[contains(@id,'doc')]"));
     }
 
 }

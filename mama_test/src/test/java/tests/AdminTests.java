@@ -25,16 +25,20 @@ public class AdminTests extends TestBase {
     @Test
     public void AdminTest() {
         List<WebElement> menuList=app.adminka().menuList();
-     for (int i=0;i<menuList.size();i++){
+        int menuSize=menuList.size();
+     for (int i=0;i<menuSize;i++){
          app.adminka().click(menuList.get(i));
          app.adminka().areHeaderPresent();
          app.adminka().wait5();
-         List<WebElement> subMuuList=app.adminka().subMenuList(menuList.get(i));
-         System.out.println(subMuuList.size());
-         for (int j=0;j<subMuuList.size();j++) {
-             app.adminka().click(subMuuList.get(j));
+         List<WebElement> subMunuList=app.adminka().subMenuList();
+         int subMenuSize=subMunuList.size();
+        // System.out.println(subMunuList.size());
+         for (int j=0;j<subMenuSize;j++) {
+             app.adminka().click(subMunuList.get(j));
              app.adminka().wait5();
              app.adminka().areHeaderPresent();
+             subMunuList=app.adminka().subMenuList();
+
          }
          app.adminka().back();
          app.adminka().wait5();
