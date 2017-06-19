@@ -1,6 +1,7 @@
 package tests;
 
 import org.junit.After;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
@@ -36,7 +37,7 @@ public class AdminTests extends TestBase {
          for (int j=0;j<subMenuSize;j++) {
              app.adminka().click(subMunuList.get(j));
              app.adminka().wait5();
-             app.adminka().areHeaderPresent();
+             Assert.assertTrue(app.adminka().areHeaderPresent());
              subMunuList=app.adminka().subMenuList();
 
          }

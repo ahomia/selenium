@@ -14,8 +14,8 @@ public class AdminkaHelper extends HelperBase {
         super(wd);
     }
 
-    public void areHeaderPresent() {
-        areElementPresents(By.cssSelector("h1"));
+    public boolean areHeaderPresent() {
+        return areElementPresents(By.cssSelector("h1"));
     }
 public List<WebElement> menuList(){
         return listOfElements(By.cssSelector("#app-"));
